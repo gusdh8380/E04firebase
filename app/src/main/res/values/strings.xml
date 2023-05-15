@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E04Firebase</string>
+    <string name="save">저장</string>
+    <string name="input_title">제목을 입력하세요.</string>
+    <string name="input_content">내용을 입력하세요.</string>
+    <string name="action_remove">삭제</string>
+    <string name="action_create">생성</string>
+    <string name="confirm">확인</string>
+    <string name="doYouWantToDelete">삭제하시겠습니까?</string>
+    <string name="yes">예</string>
+    <string name="no">아니오</string>
+</resources>
